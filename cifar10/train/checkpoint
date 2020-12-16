@@ -1,0 +1,2 @@
+model_checkpoint_path: "G:/python/assignment2/cs231n/train\\model.ckpt-0"
+all_model_checkpoint_paths: "G:/python/assignment2/cs231n/train\\model.ckpt-0"
